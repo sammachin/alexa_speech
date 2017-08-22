@@ -1,0 +1,8 @@
+<speak>
+    We measure distances like
+    <say-as interpret-as="unit">35Km</say-as>.
+   And weights are values like: 
+    <say-as interpret-as="unit">19Kg</say-as>.
+    We can also do shorter units such as 
+    <say-as interpret-as="unit">123mm</say-as>.
+</speak>

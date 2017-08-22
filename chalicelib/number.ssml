@@ -1,0 +1,10 @@
+<speak>
+    Here is a number spoken as a cardinal number: 
+    <say-as interpret-as="cardinal">123</say-as>.
+    This is that number spoken as a ordinal: 
+    <say-as interpret-as="ordinal">123</say-as>.
+    Here is the same number with each digit spoken separately:
+    <say-as interpret-as="digits">123</say-as>.
+    I can also read out fractions such as 
+    <say-as interpret-as="fraction">1/4</say-as>.
+</speak>

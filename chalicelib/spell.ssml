@@ -1,0 +1,6 @@
+<speak>
+    If I am reading specific information such as a name, I might read it like this.
+    His Name is Sam Machin. that's, 
+    <say-as interpret-as="characters">Machin</say-as>
+</speak>
+

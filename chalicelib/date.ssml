@@ -1,0 +1,5 @@
+<speak>
+    I can read dates such as:
+    Neil Armstrong Landed on the moon on  <say-as interpret-as="date">19690720</say-as>.
+    Christmas Day is on <say-as interpret-as="date">????1225</say-as>
+</speak>

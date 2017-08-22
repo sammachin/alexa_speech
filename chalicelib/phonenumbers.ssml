@@ -1,0 +1,8 @@
+<speak>
+    My US Number is: 
+    <say-as interpret-as="telephone">415-685-3165</say-as>.
+    My UK Number is: 
+    <say-as interpret-as="telephone">07970 513607</say-as>.
+    My Irish Number is:
+    <say-as interpret-as="telephone">086 180 0767</say-as>.
+</speak>

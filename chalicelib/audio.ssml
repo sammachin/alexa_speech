@@ -1,0 +1,5 @@
+<speak>
+    <audio src='https://s3.sammachin.com/alexa_alert.mp3'/>
+    Alert! Alert!
+    <audio src='https://s3.sammachin.com/alexa_alert.mp3'/>
+</speak>

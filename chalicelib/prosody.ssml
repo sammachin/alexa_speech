@@ -1,0 +1,11 @@
+<speak>
+    I can speak normally.
+    <prosody volume="+4.08dB">Or I can speak quite loudly</prosody>.
+    I can also speak  <prosody volume="-4.08dB">more quietly</prosody>.
+    When I wake up, <prosody rate="20%">I speak quite slowly</prosody>.
+    Until I've had my coffee <prosody rate="200%">then I speak really really fast</prosody>.
+    I can speak with my normal pitch, 
+    <prosody pitch="+50%"> but also with a much higher pitch </prosody>, 
+    and also <prosody pitch="-33.3%">I can speak with a lower pitch.</prosody>
+</speak>
+
